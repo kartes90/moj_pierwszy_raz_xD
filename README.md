@@ -1,1 +1,2 @@
-# moj_pierwszy_raz_xD
+Pierwsze zadanie testowe w TAPS
+Python 3
